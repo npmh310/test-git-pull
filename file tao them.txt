@@ -1,4 +1,3 @@
-<<<<<<< HEAD
-test git push lần 2 
+<không muốn push cái cũ lên
 
 Theem gi do vao lan 2
