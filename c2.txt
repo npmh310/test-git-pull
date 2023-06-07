@@ -3,3 +3,6 @@ day la test nhanh hieu
 
 sửa c2 để push lên
 fasdfsd
+
+
+Sửa c2 trên git
