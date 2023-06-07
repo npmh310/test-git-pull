@@ -1,3 +1,4 @@
 <<<<<<< HEAD
 test git push lần 2 
 
+Theem gi do vao lan 2
